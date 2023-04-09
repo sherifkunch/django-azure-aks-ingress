@@ -25,7 +25,7 @@ SECRET_KEY = 'CHooseYourProductionSecretKey'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['django-aks-ingress.westeurope.cloudapp.azure.com']
 
 # Application definition
 
