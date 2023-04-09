@@ -17,7 +17,7 @@ spec:
       containers:
         - name: django-web-container
           imagePullPolicy: Always
-          image: djangoaksregistry.azurecr.io/django-aks:v1.0.0
+          image: djangoaksregistrytest.azurecr.io/django-aks:v1.0.0
           ports:
           - containerPort: 8010
           env:
