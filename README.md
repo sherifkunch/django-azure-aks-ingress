@@ -1,6 +1,9 @@
 # Deploying a Django application in Azure AKS with an Ingress Controller and TLS
 
-TL;DR approach, read the full acrticle on [Medium](https://medium.com/@wmarcuse/deploying-a-django-application-in-azure-aks-with-an-ingress-controller-and-tls-266a1e2dc697).
+TL;DR approach, read the steps needed to configure the whole project inside setup-scripts folder.
+In 10 steps you will be able to build all the needed components for the deployment. 
+
+Note that each command in the steps file is meant to be run manually. 
 
 ## Build and run the Django app with Docker
 
